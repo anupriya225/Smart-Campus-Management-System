@@ -1,0 +1,1 @@
+The Smart Campus Management System is a Java-based desktop application developed using JDBC and MySQL. It helps educational institutions manage students, faculty, attendance, complaints, events, and user authentication through a centralized system.
